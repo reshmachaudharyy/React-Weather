@@ -1,0 +1,50 @@
+.home{
+
+    padding:30px;
+    text-align:center;
+
+}
+
+.controls{
+
+    margin:20px 0;
+
+}
+
+select{
+
+    padding:8px;
+
+    margin-left:10px;
+
+}
+
+button{
+
+    padding:10px 15px;
+
+    cursor:pointer;
+
+}
+
+.weather-card{
+
+    width:300px;
+
+    margin:auto;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    background:#f4f4f4;
+
+    box-shadow:0 0 8px rgba(0,0,0,.2);
+
+}
+
+.weather-card h2{
+
+    margin-bottom:10px;
+
+}
